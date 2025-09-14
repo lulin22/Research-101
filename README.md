@@ -13,4 +13,4 @@ This list contains works by experienced researchers who were generous and reflec
 
 [4] Peyton Jones, S. (n.d.). Research skills. Microsoft Research. http://research.microsoft.com/~simonpj/Papers/giving-a-talk/giving-a-talk.htm
     
-    (Contains research skill resources curated by Peyton Jones)
+    (Contains research-skill resources curated by Peyton Jones)
