@@ -14,3 +14,5 @@ This list contains works by experienced researchers who were generous and reflec
 [4] Peyton Jones, S. (n.d.). Research skills. Microsoft Research. http://research.microsoft.com/~simonpj/Papers/giving-a-talk/giving-a-talk.htm
     
     (Contains research-skill resources curated by Peyton Jones)
+
+Hamming, R. W. (1986, March 7). You and your research [Lecture transcript]. Bell Communications Research. https://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf
