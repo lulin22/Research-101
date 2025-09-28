@@ -11,7 +11,7 @@ This list contains works by experienced researchers who were generous and reflec
     
     (Be a good person, be a helpful person by being a constructive person)
 
-[4] Peyton Jones, S. (n.d.). Research skills. Microsoft Research. http://research.microsoft.com/~simonpj/Papers/giving-a-talk/giving-a-talk.htm
+[4] Peyton Jones, S. (n.d.). Research skills. Microsoft Research. https://simon.peytonjones.org/research-skills/
     
     (Contains research-skill resources curated by Peyton Jones)
 
